@@ -1,6 +1,4 @@
-# Calculator-Template
+# Calculator-Templat
 My calculator
 
-HTML
-CSS
-JavaScript
+
